@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/qziland/static/css/main.331f5f47.chunk.css",
-    "main.js": "/qziland/static/js/main.cd556e50.chunk.js",
-    "main.js.map": "/qziland/static/js/main.cd556e50.chunk.js.map",
+    "main.js": "/qziland/static/js/main.83c178cb.chunk.js",
+    "main.js.map": "/qziland/static/js/main.83c178cb.chunk.js.map",
     "runtime-main.js": "/qziland/static/js/runtime-main.d10ff78b.js",
     "runtime-main.js.map": "/qziland/static/js/runtime-main.d10ff78b.js.map",
     "static/js/2.840f3399.chunk.js": "/qziland/static/js/2.840f3399.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d10ff78b.js",
     "static/js/2.840f3399.chunk.js",
     "static/css/main.331f5f47.chunk.css",
-    "static/js/main.cd556e50.chunk.js"
+    "static/js/main.83c178cb.chunk.js"
   ]
 }
