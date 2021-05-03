@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/qziland/static/css/main.3be603b3.chunk.css",
-    "main.js": "/qziland/static/js/main.aeec39ab.chunk.js",
-    "main.js.map": "/qziland/static/js/main.aeec39ab.chunk.js.map",
+    "main.js": "/qziland/static/js/main.97c05736.chunk.js",
+    "main.js.map": "/qziland/static/js/main.97c05736.chunk.js.map",
     "runtime-main.js": "/qziland/static/js/runtime-main.d10ff78b.js",
     "runtime-main.js.map": "/qziland/static/js/runtime-main.d10ff78b.js.map",
-    "static/js/2.de3fd76f.chunk.js": "/qziland/static/js/2.de3fd76f.chunk.js",
-    "static/js/2.de3fd76f.chunk.js.map": "/qziland/static/js/2.de3fd76f.chunk.js.map",
+    "static/js/2.840f3399.chunk.js": "/qziland/static/js/2.840f3399.chunk.js",
+    "static/js/2.840f3399.chunk.js.map": "/qziland/static/js/2.840f3399.chunk.js.map",
     "index.html": "/qziland/index.html",
     "static/css/main.3be603b3.chunk.css.map": "/qziland/static/css/main.3be603b3.chunk.css.map",
-    "static/js/2.de3fd76f.chunk.js.LICENSE.txt": "/qziland/static/js/2.de3fd76f.chunk.js.LICENSE.txt"
+    "static/js/2.840f3399.chunk.js.LICENSE.txt": "/qziland/static/js/2.840f3399.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d10ff78b.js",
-    "static/js/2.de3fd76f.chunk.js",
+    "static/js/2.840f3399.chunk.js",
     "static/css/main.3be603b3.chunk.css",
-    "static/js/main.aeec39ab.chunk.js"
+    "static/js/main.97c05736.chunk.js"
   ]
 }
