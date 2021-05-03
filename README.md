@@ -1,5 +1,7 @@
 # Qziland
 
+https://ih16.github.io/qziland/#/
+
 On first run login to admin and add questions to questionnaire or use the seed function in admin to populate questionnaire with 10 mock questions.
 
 ## Admin
