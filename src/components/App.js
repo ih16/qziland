@@ -1,17 +1,11 @@
 import React, { useEffect, useState } from "react";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Redirect,
-} from "react-router-dom";
+import { HashRouter, Switch, Route, Redirect } from "react-router-dom";
 import Home from "./Home";
 import Signin from "./Signin";
 import { UserContext } from "./UserContext";
 import UserDashboard from "./UserDashboard";
 import Quiz from "./Quiz";
 import Result from "./Result";
-import NotFound from "./NotFound";
 import LayoutUser from "./LayoutUser";
 
 import LayoutAdmin from "./admin/LayoutAdmin";
@@ -51,7 +45,7 @@ function App() {
   };
   return (
     <div className="min-h-screen">
-      <Router>
+      <HashRouter>
         <UserContext.Provider value={{ user, setUser }}>
           <Switch>
             <Route
@@ -204,13 +198,9 @@ function App() {
                 )
               }
             />
-
-            <Route path="*">
-              <NotFound />
-            </Route>
           </Switch>
         </UserContext.Provider>
-      </Router>
+      </HashRouter>
     </div>
   );
 }
